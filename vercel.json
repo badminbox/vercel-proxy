@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://elseo.ir:8443/$1"
+    }
+  ]
+}
